@@ -1,4 +1,10 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=👋+Hi+I%27m+Aaron!;%F0%9F%92%BB+I%27m+a+Software+Engineer)](https://git.io/typing-svg)
+
+## 📌 About Me
+
+- 👕 Fashion enthusiast | 🧗 Rock climber | 🏃 Runner  
+- 🚀 Currently studying CS at Rutgers
+- 👨‍💻 Previous SWE at Amazon, Bloomberg
 
 <!--
 **aarontsengg/aarontsengg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
