@@ -2,7 +2,7 @@
 
 ## 📌 About Me
 
-- 👕 Fashion enthusiast | 🧗 Rock climber | 🏃 Runner  
+- 👕 Fashion enthusiast | 🧗 Rock climber | 🏋️ Weightlifter  
 - 🚀 Currently studying CS at Rutgers
 - 👨‍💻 Previous SWE at Amazon, Bloomberg
 
